@@ -1,0 +1,120 @@
+,region,country,brand,listings
+0,europe,british,ac,0
+1,europe,italian,alfa romeo,41
+2,europe,french,alpine,0
+3,asia,korean,asia motors,4
+4,europe,british,ariel,0
+5,europe,british,aston martin,44
+6,europe,german,audi,1734
+7,europe,british,austin,28
+8,asia,chinese,baw,0
+9,europe,british,bentley,201
+10,asia,chinese,bison,2
+11,europe,german,bmw,5987
+12,asia,chinese,boon koon,0
+13,europe,german,borgward,0
+14,europe,german,brabus,1
+15,australian,australian,bufori,1
+16,europe,french,bugatti,0
+17,american,american,buick,0
+18,american,american,cadillac,4
+19,asia,malaysian,cam,5
+20,europe,british,caterham,0
+21,asia,chinese,chana,11
+22,asia,chinese,changan,10
+23,asia,chinese,chery,123
+24,american,american,chevrolet,313
+25,american,american,chrysler,4
+26,europe,french,citroen,86
+27,asia,korean,daewoo,0
+28,asia,japanese,daihatsu,317
+29,europe,german,daimler,2
+30,asia,japanese,datsun,26
+31,american,american,dodge,4
+32,asia,chinese,dongfeng,1
+33,europe,french,ds automobiles,1
+34,american,american,durant,0
+35,american,american,excalibur,0
+36,american,american,factory five,0
+37,asia,chinese,farid,1
+38,europe,italian,ferrari,236
+39,europe,italian,fiat,59
+40,asia,chinese,foday,0
+41,american,american,ford,2635
+42,asia,chinese,foton,67
+43,asia,chinese,gac,1
+44,american,american,gmc,2
+45,asia,chinese,golden dragon,3
+46,asia,chinese,great wall,55
+47,asia,chinese,haval,22
+48,australian,australian,holden,0
+49,asia,japanese,honda,14943
+50,asia,chinese,huanghai,0
+51,american,american,hummer,12
+52,asia,korean,hyundai,1658
+53,asia,japanese,infiniti,45
+54,asia,malaysian,inokom,321
+55,asia,japanese,isuzu,754
+56,europe,british,jaguar,147
+57,american,american,jeep,175
+58,asia,chinese,jmc,15
+59,asia,chinese,joylong,2
+60,asia,chinese,kaicene,8
+61,asia,korean,kia,1503
+62,asia,chinese,king long,8
+63,europe,austrian,ktm,0
+64,europe,italian,lamborghini,285
+65,europe,italian,lancia,1
+66,europe,british,land rover,1892
+67,asia,japanese,lexus,1894
+68,american,american,lincoln,1
+69,asia,chinese,lmg,2
+70,europe,british,lotus,16
+71,asia,indian,mahindra,1
+72,europe,italian,maserati,135
+73,asia,chinese,maxus,57
+74,asia,japanese,mazda,2697
+75,europe,british,mclaren,117
+76,europe,german,mercedes benz,11048
+77,europe,british,mg,17
+78,europe,british,mini,1673
+79,asia,japanese,mitsubishi,2869
+80,asia,japanese,mitsuoka,7
+81,europe,british,morgan,0
+82,europe,british,morris,7
+83,asia,malaysian,naza,795
+84,asia,japanese,nissan,6562
+85,american,american,oldsmobile,0
+86,europe,german,opel,2
+87,asia,malaysian,perodua,13103
+88,europe,french,peugeot,982
+89,american,american,pontiac,0
+90,europe,german,porsche,2118
+91,asia,malaysian,proton,13839
+92,europe,french,renault,101
+93,europe,british,rolls-royce,63
+94,europe,british,rover,2
+95,europe,swedish,saab,4
+96,american,american,shelby,0
+97,asia,chinese,shenyang brilliance,4
+98,europe,czech,skoda,5
+99,europe,german,smart,40
+100,asia,korean,ssangyong,39
+101,asia,japanese,subaru,878
+102,europe,british,sunbeam,0
+103,europe,british,sutton,0
+104,asia,japanese,suzuki,1085
+105,asia,indian,tata,1
+106,asia,malaysian,td2000,1
+107,american,american,tesla,281
+108,asia,japanese,toyota,25057
+109,europe,british,triumph,1
+110,europe,british,tvr,0
+111,europe,german,volkswagen,3258
+112,europe,swedish,volvo,492
+113,asia,malaysian,weststar,0
+114,europe,british,wolseley,0
+115,asia,chinese,yangtse,0
+116,europe,danish,zenvo,0
+117,asia,chinese,zna,0
+118,asia,chinese,zxauto,2

@@ -1,0 +1,12 @@
+p {
+  color: dimgray;
+  font-weight: 400;
+}
+
+.app-header {
+  background: linear-gradient(135deg, #0b1120 0%, #1f2937 45%, #273e5a 100%);
+  padding: 16px 24px;
+  border-radius: 14px;
+  color: #fff;
+}
+

@@ -1,0 +1,11 @@
+/* Make menu options bold */
+.bold-dd .VirtualizedSelectOption { font-weight: 600 !important; }
+/* Fallback for non-virtualized menus (older dash/react-select) */
+.bold-dd .Select-option { font-weight: 600 !important; }
+
+/* Make the selected value (closed state) bold */
+.bold-dd .Select-value-label { font-weight: 600 !important; }
+
+/* Optional: bold the typed text / placeholder */
+.bold-dd .Select-input input { font-weight: 600 !important; }
+.bold-dd .Select-placeholder { font-weight: 600 !important; }

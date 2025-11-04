@@ -1,0 +1,16 @@
+/* dropdown control text (closed) */
+.Select-control, .Select input, .Select-value-label {
+  color: #111827 !important;
+}
+
+/* dropdown menu (opened) */
+.VirtualizedSelectOption, .Select-menu-outer {
+  background: #ffffff !important;
+  color: #111827 !important;  /* dark text */
+}
+
+/* selected option in menu */
+.VirtualizedSelectFocusedOption {
+  background: #e5ecff !important;
+  color: #111827 !important;
+}
